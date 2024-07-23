@@ -19,5 +19,8 @@ Separate lists for incomplete and completed tasks
 
 
 index.html: The main HTML file that contains the structure of the application.
+
 styles.css: The CSS file that contains the styles for the application.
+
 list.js: The JavaScript file that contains the logic for managing tasks.
+
